@@ -1,0 +1,8 @@
+com/claudio/cadastro/server/model/Cidade.class
+com/claudio/cadastro/server/config/RestConfig.class
+com/claudio/cadastro/server/dao/DAO.class
+com/claudio/cadastro/server/config/Producers.class
+com/claudio/cadastro/server/model/Usuario.class
+com/claudio/cadastro/server/model/Cadastro.class
+com/claudio/cadastro/server/dao/JpaDAO.class
+com/claudio/cadastro/server/rest/UsuarioResource.class
