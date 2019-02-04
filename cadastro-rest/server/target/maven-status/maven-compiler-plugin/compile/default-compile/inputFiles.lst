@@ -1,8 +1,0 @@
-/home/aluno/Sistemas-Distribuidos/cadastro-rest/server/src/main/java/com/claudio/cadastro/server/dao/JpaDAO.java
-/home/aluno/Sistemas-Distribuidos/cadastro-rest/server/src/main/java/com/claudio/cadastro/server/rest/UsuarioResource.java
-/home/aluno/Sistemas-Distribuidos/cadastro-rest/server/src/main/java/com/claudio/cadastro/server/config/Producers.java
-/home/aluno/Sistemas-Distribuidos/cadastro-rest/server/src/main/java/com/claudio/cadastro/server/dao/DAO.java
-/home/aluno/Sistemas-Distribuidos/cadastro-rest/server/src/main/java/com/claudio/cadastro/server/model/Cidade.java
-/home/aluno/Sistemas-Distribuidos/cadastro-rest/server/src/main/java/com/claudio/cadastro/server/model/Cadastro.java
-/home/aluno/Sistemas-Distribuidos/cadastro-rest/server/src/main/java/com/claudio/cadastro/server/model/Usuario.java
-/home/aluno/Sistemas-Distribuidos/cadastro-rest/server/src/main/java/com/claudio/cadastro/server/config/RestConfig.java
